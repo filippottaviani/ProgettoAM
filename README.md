@@ -1,6 +1,6 @@
 # LiDAR SLAM
 
-Questo repository contiene il progetto relativo all'esame di Autonomous Robotics, sviluppato da Filippo Ottaviani e Samuele Ceccarelli.
+Progetto MATLAB relativo all'esame di Autonomous Robotics, sviluppato da Filippo Ottaviani e Samuele Ceccarelli.
 
 ## Descrizione
 
