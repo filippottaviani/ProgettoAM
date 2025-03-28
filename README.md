@@ -8,8 +8,9 @@ Il progetto implementa un sistema di Simultaneous Localization and Mapping (SLAM
 
 ## Struttura del Repository
 
-- `animations/`: Contiene animazioni e visualizzazioni generate durante l'elaborazione dei dati.
-- `functions/`: Include funzioni MATLAB personalizzate utilizzate nel progetto.
+- `animations`: Contiene le animazioni generate durante l'elaborazione dei dati.
+- `functions`: Include funzioni MATLAB personalizzate utilizzate nel progetto.
+- `images`: Contiene le visualizzazioni prodotte durante l'esecuzione dello script.
 - `CustomLidarSLAM.slx`: Modello Simulink principale per l'implementazione del sistema SLAM.
 - `lidar_slam_project.mlx`: Script MATLAB Live che documenta e guida attraverso le varie fasi del progetto.
 
